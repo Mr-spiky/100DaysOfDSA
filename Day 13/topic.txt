@@ -1,0 +1,13 @@
+ $ BIT MENIPULATION
+
+ 1.Get
+ 2.Set
+ 3.Clear
+ 4.Update
+
+ Left shift
+
+ N<<i
+
+ Right shift
+ N>>1
